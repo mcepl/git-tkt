@@ -1,6 +1,7 @@
 import os
 from setuptools import setup, find_packages
-from gittkt.gittkt import GITTKT_VERSION
+from gittkt.GitTkt import GITTKT_VERSION
+
 
 setup(
     url = "",
